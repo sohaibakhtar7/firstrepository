@@ -1,4 +1,5 @@
 # firstrepository
 first git hub repository
 <br>
-author - sohaib 
+author - sohaib akhtar
+
